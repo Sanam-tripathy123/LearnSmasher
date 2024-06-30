@@ -1,6 +1,6 @@
 # LearnSmasher Internship (Data Science)
 
-# Projects: - 
+Projects: - 
 1. Future Sales Prediction
 2. Netflix Data Analysis
 3. Social Media Analysis
