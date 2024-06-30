@@ -1,4 +1,4 @@
-LearnSmasher Internship (Data Science)
+# LearnSmasher Internship (Data Science)
 
 Projects: - 
 1. Future Sales Prediction
